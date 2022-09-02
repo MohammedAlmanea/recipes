@@ -1,0 +1,21 @@
+body {
+    background-color: darkgray;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+ul,ol {
+    font-size: large;
+}
+.cookie {
+    width: auto;
+    height: 200px;
+}
+.pasta {
+    width: auto;
+    height: 300px;
+}
+.pizza {
+    width: auto;
+    height: 300px;
+}
